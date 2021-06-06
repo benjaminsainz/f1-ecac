@@ -42,5 +42,5 @@ I hope F1-ECAC is a useful tool for your data mining tasks,
 
 Benjamin  
 a01362640@itesm.mx  
-LinkedIn: https://www.linkedin.com/in/benjaminmariosainztinajero/
+**LinkedIn:** https://www.linkedin.com/in/benjaminmariosainztinajero/
 
