@@ -18,4 +18,4 @@ def test(ds=full, pop_size=200, max_gens=200, runs=1):
         f1ecac_run(X, n_clusters, data, pop_size, max_gens, runs=runs, y=y, log_file=False, evolutionary_plot=False)
 
         
-test(full)
+test()
