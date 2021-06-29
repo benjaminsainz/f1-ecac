@@ -34,7 +34,7 @@ Open your preferred Python interface and follow these commands to generate a clu
 ``>>> from gen import *``  
 ``>>> f1ecac_run(X, n_clusters, data, pop_size=200, max_gens=200, p_crossover=0.95, p_mutation=0.98, runs=10, y=y, log_file=True, evolutionary_plot=True)``  
 
-Running these commands will execute ECAC using the wine dataset's features, 3 clusters, 200 individuals per population, 200 generations, probabilities of running the crossover and mutation operators of 0.95 and 0.98 for 10 independent runs, and will compute the adjusted RAND index between the solutions and the provided y array. A csv file with the clustering and the results is stored in the ``/f1-ecac-out`` path.
+Running these commands will execute F1-ECAC using the wine dataset's features, 3 clusters, 200 individuals per population, 200 generations, probabilities of running the crossover and mutation operators of 0.95 and 0.98 for 10 independent runs, and will compute the adjusted RAND index between the solutions and the provided y array. A .csv file with the clustering and the results is stored in the ``/f1-ecac-out`` path.
 
 A test.py file is provided for a more straight-forward approach to using the algorithm.  
 
