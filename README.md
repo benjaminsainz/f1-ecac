@@ -41,6 +41,6 @@ A test.py file is provided for a more straight-forward approach to using the alg
 I hope F1-ECAC is a useful tool for your data mining tasks,
 
 Benjamin
-**Email:** a01362640@itesm.mx, bm.sainz@gmail.com
+**Email:** a01362640@itesm.mx, bm.sainz@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/benjaminmariosainztinajero/
 
